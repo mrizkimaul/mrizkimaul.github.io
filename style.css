@@ -1,7 +1,7 @@
 body {
 background-image: url(UUU.jpg);
 }
-h1 {font-family: Arial, Helvetica, sans-serif;
+h1 {font-family: Arial, Helvetica, sans-serif; background-color : #ccff99;
 }
 h2 {font-family: Arial, Helvetica, sans-serif;
  background-color: lightgrey;}
