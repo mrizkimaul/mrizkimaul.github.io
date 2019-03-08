@@ -1,12 +1,14 @@
 body {
-background-image: url(TTTT.jpg);
+background-image: url(IIII.jpg);
 }
 h1 {font-family: Arial, Helvetica, sans-serif; background-color : #ccff99;
 }
 h2 {font-family: Arial, Helvetica, sans-serif;
  background-color: lightgrey; text-align : center;
 }
-	
+h3 {font-family: "Times New Roman", Times, serif;
+ font-size: 20px;
+color: #ffffff;}
 p {
 font-family: "Times New Roman", Times, serif;
  font-size: 20px;
@@ -21,8 +23,10 @@ table, th, td {
   width: 10px;
   height: 50px;
 } 
-}
-li {
+
+.keterangan {
 font-family: "Times New Roman", Times, serif;
  font-size: 20px; 
+text-align: center;
+color: #ffffff
 }
